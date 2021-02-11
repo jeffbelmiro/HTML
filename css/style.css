@@ -8,10 +8,16 @@ body{
 
 .post_title{
     font-size: 32px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-style: italic;
     color: chartreuse;
+    border: double 10px;
 }
 
 .post {
     color: darkolivegreen;
+    background: darksalmon;
+    padding: 10px 10px 5px 0;
+    border: 2px dotted blueviolet;
+    border-radius: 10px;
 }
